@@ -1,0 +1,8 @@
+1//0gaRRjBQ4saY9CgYIARAAGBASNwF-L9Ir0f_M8DQIVZf3raNVVj6pVnTwvI7ZxQ4288Lx55GR_4iZhkUNBhO3U8iC5_JzEpvXDVc
+firebase deploy --token "$FIREBASE_TOKEN"
+
+Platform  Firebase App Id
+web       1:432779098648:web:a95e6158952e43d44f616d
+android   1:432779098648:android:ebb39ab5a528c2c34f616d
+ios       1:432779098648:ios:ac91a9e3d3a0345d4f616d
+macos     1:432779098648:ios:ac91a9e3d3a0345d4f616d
